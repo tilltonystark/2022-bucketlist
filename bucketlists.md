@@ -1,0 +1,13 @@
+## 1. Satyam Gopal 👋
+- [ ] Project Sharable (MVP atleast)
+- [ ] Project GoPeeps (MVP atleast)
+- [ ] Learn DevOps
+- [ ] Ipad
+- [ ] Buy a Flat
+- [ ] A Camera
+- [ ] Design Agency
+- [ ] Stream 3hrs & 10hrs long Study with Me Session
+- [ ] Make a Course on Figma
+- [ ] Make a Course on UI/UX Design
+- [ ] Master DSA
+- [ ] Internship in any Top Company.
