@@ -11,3 +11,4 @@
 - [ ] Make a Course on UI/UX Design
 - [ ] Master DSA
 - [ ] Internship in any Top Company.
+- [ ] A day in my life. Where I'm developing something on my laptop in any cafeteria. (Work from Home/freelancing Vibes)
