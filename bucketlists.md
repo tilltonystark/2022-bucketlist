@@ -12,4 +12,5 @@
 - [ ] Master DSA
 - [ ] Internship in any Top Company.
 - [ ] A day in my life. Where I'm developing something on my laptop in any cafeteria. (Work from Home/freelancing Vibes)
-- [ ] Apply for (Linkedin Learning)[https://learning.linkedin.com/en-us/instructors?disableLocaleAutoRedirect=true&trk=lil-b2b-footer_become_instructor&src=li-learning-footer&utm_campaign=lilfooter_instruct_site_learning&utm_source=lil&utm_medium=footer]
+- [ ] Apply for [Linkedin Learning](https://learning.linkedin.com/en-us/instructors?disableLocaleAutoRedirect=true&trk=lil-b2b-footer_become_instructor&src=li-learning-footer&utm_campaign=lilfooter_instruct_site_learning&utm_source=lil&utm_medium=footer)
+- [ ] Buying a Headphone
